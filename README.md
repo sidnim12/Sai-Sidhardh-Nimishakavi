@@ -27,11 +27,11 @@
 ### 🛠️ Tech Interests
 
 ```
-Python        | 🟩🟩🟩🟩⬜
-APIs          | 🟩🟩⬜⬜⬜
-Web Stacks    | 🟩⬜⬜⬜⬜
-Agentic AI    | 🟩⬜⬜⬜⬜
-AIML          | 🟩🟩⬜⬜⬜
+Python        | 🟩🟩🟩🟩🟩
+APIs          | 🟩🟩🟩⬜⬜
+Web Stacks    | 🟩🟩🟩⬜⬜
+Agentic AI    | 🟩🟩🟩🟩⬜
+AIML          | 🟩🟩🟩🟩🟩
 ```
 
 ---
@@ -39,7 +39,7 @@ AIML          | 🟩🟩⬜⬜⬜
 ### 📈 My Learning Path
 
 - 📌 **Python:** Halfway to mastery, building robust foundations.
-- 🔄 **Next:** APIs, web stacks, and agentic AI—my upcoming focus areas.
+- 🔄 **Next:** APIs, web stacks, machine learning, and agentic AI—my upcoming focus areas.
 - 🌟 **Goal:** To contribute meaningfully to innovative, real-time projects and collaborate with like-minded developers.
 
 ---
@@ -52,14 +52,8 @@ AIML          | 🟩🟩⬜⬜⬜
 
 ---
 
-```
-        .-''''-.
-       /  .--.  \
-       | (    ) |
-       (_ `--' _)
-       / '----' \
-      /_/      \_\
-  "Keep Learning. Keep Building."
-```
+
+  "Keep Learning. Keep Building."✅
+
 
 ---
